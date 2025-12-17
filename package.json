@@ -1,0 +1,15 @@
+{
+  "name": "fr-rabbi-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot by FR RABBI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.14.1",
+    "qrcode-terminal": "^0.12.0",
+    "fs-extra": "^11.1.1"
+  }
+}
